@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
-title: Kyle Beebe Homepage
+
+<div align="left">
+  
+</div>
 
 # This is an <h1> tag
