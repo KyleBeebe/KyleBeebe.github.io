@@ -4,22 +4,31 @@ layout: default
 
 
 <div align="left">
-  # This is an <h1> tag
+  <h3>Projects</h3>
+  <a href="#740">Nori</a> 
+  <br/>
+  <a href="#425">Unity3D</a> 
+  <br/>
+  <a href="#417">Bittorrent</a> 
+  <br/>
 </div>
 <div align="center">
-  
-  
-  <h3>Projects</h3>
   <body>
   
-  <h3 id="740"> CMSC740 </h3>
+  <h3 id="740"> Nori Raytracer </h3>
   <p>
+    <img src="images/740/cbox.png">
     <img src="images/740/med_med.png">
     <br/>
     <a href="https://github.com/KyleBeebe/Nori-Raytracer">Repository</a> 
     <br/>
+    <a href="https://github.com/KyleBeebe/Nori-Raytracer/tree/master/Reports/PDF">Technical Reports</a> 
+    <br/>
     The is an educational raytracer that I've been extending with extra features and functionality. Full path tracing has been implemented with support for diffuse, specular, and dielectric materials. The most recent addition was the implmentation of a volumentric rendering integrator. It allows the rendering of homogeneous mediums such as environmental fog. 
   </p>
+  
+  <br/>
+  <br/>
   
   <h3 id="425"> Unity3D SpaceGame </h3>
   <p> 
@@ -33,14 +42,28 @@ layout: default
     robots. The main gimmicks were the cubic Bezier curve based grappling hook, the centrifuge style level that allowed traversal along the inside walls, and the few destructible items within the environment. 
   </p>
   
+  <br/>
+  <br/>
+  
   <h3 id="417"> Bittorrent Client </h3>
   <p>
     <a href="https://github.com/KyleBeebe/Bittorrent-Client">Repository</a> 
     <br/>
     A command line Bittorrent client created using C++ that handles single file torrents. The client is able to communicate with 
-    public bittorrent trackers via TCP http get requests and exchanges file data with other clients via UDP. 
+    public bittorrent trackers via TCP http get requests and exchanges file data with other clients via TCP connections. 
   </p>
   
+  <br/>
+  <br/>
+  
+  <h3 id="OpenGL"> OpenGL 4.6 engine </h3>
+  <p>
+    <img src="images/OpenGL/triangle.png">
+    <a href="https://github.com/KyleBeebe/OpenGLEngine">Repository</a> 
+    <br/>
+    An in-progress OpenGL 4.6 engine in C++.  I have been generally following https://learnopengl.com/ but adhering to an OOP design 
+  by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. The default shaders can deal with diffuse and specular map textures. 
+  </p>
   </body>
 </div>
 
