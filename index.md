@@ -62,7 +62,7 @@ layout: default
     <a href="https://github.com/KyleBeebe/OpenGLEngine">Repository</a> 
     <br/>
     An in-progress OpenGL 4.6 engine in C++.  I have been generally following https://learnopengl.com/ but adhering to an OOP design 
-  by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. The default shaders can deal with diffuse and specular map textures. 
+  by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. Basic 3D shapes with textures can be rendered. The default shaders can deal with diffuse and specular map textures. 
   </p>
   </body>
 </div>
