@@ -9,11 +9,12 @@ layout: default
 <div align="center">
   <h3> Projects </h4>
   
-  <h2 id="740"> CMSC740 </h2>
+  <h3 id="740"> CMSC740 </h3>
   
-  <h3 id="425"> Unity3D SpaceGame </h3>
-  <img src="images/425/4.jpg" alt="centrifuge">
+  
   <p>
+    <h3 id="425"> Unity3D SpaceGame </h3>
+    <img src="images/425/4.jpg" alt="centrifuge">
     <a href="https://www.youtube.com/watch?v=S0BBw31RJLE&t=6s">Video Demo</a> 
     <br/>
     <a href="https://github.com/KyleBeebe/UnitySpaceGame">Repository</a> 
