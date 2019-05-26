@@ -7,9 +7,9 @@ layout: default
   # This is an <h1> tag
 </div>
 <div align="center">
-  <h4> Projects </h4>
+  <h3> Projects </h4>
   
-  <h3 id="740"> CMSC740 </h3>
+  <h2 id="740"> CMSC740 </h2>
   
   <h3 id="425"> Unity3D SpaceGame </h3>
   <img src="images/425/4.jpg" alt="centrifuge">
