@@ -24,7 +24,8 @@ layout: default
     <br/>
     <a href="https://github.com/KyleBeebe/Nori-Raytracer/tree/master/Reports/PDF">Technical Reports</a> 
     <br/>
-    The is an educational raytracer that I've been extending with extra features and functionality. Full path tracing has been implemented with support for diffuse, specular, and dielectric materials. The most recent addition was the implmentation of a volumentric rendering integrator. It allows the rendering of homogeneous mediums such as environmental fog. 
+    The is an educational raytracer that I've been extending with extra features and functionality. Full path tracing has been implemented with support for diffuse, specular, and dielectric materials. The most recent addition was the implementation of a volumentric rendering integrator. It allows the rendering of homogeneous mediums such as environmental fog with directed scattering via 
+  the Henyey-Greenstein phase function model. 
   </p>
   
   <br/>
