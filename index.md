@@ -80,7 +80,7 @@ layout: default
     <a href="https://github.com/KyleBeebe/PMQuadtree">Repository</a> 
     <br/>
     
-Program in Java based around the PMQuadtree datastructure by Hanan Samet. It is a polygonal map that partitions the space based on keys. 
+Program in Java based around the PMQuadtree data structure by Hanan Samet. It is a trie based polygonal map that partitions the space based on keys. 
 The project involved mapping cities as points and roads + airports as edges connecting cities. The application finds the shortest route between the cities using Dijkstra's algorithm. 
   </p>
   
