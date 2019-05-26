@@ -12,7 +12,7 @@ layout: default
   <h3>Projects</h3>
   <body>
   
-  <h3 id="740"> CMSC740 </h3>
+  <h3 id="740"> Nori Raytracer </h3>
   <p>
     <img src="images/740/med_med.png">
     <br/>
