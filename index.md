@@ -12,7 +12,7 @@ layout: default
   <a href="#417">Bittorrent</a> 
   <br/>
 </div>
-<div align="right">
+<div align="center">
   <body>
   
   <h3 id="740"> Nori Raytracer </h3>
