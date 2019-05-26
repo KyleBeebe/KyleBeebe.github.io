@@ -27,6 +27,9 @@ layout: default
     The is an educational raytracer that I've been extending with extra features and functionality. Full path tracing has been implemented with support for diffuse, specular, and dielectric materials. The most recent addition was the implmentation of a volumentric rendering integrator. It allows the rendering of homogeneous mediums such as environmental fog. 
   </p>
   
+  <br/>
+  <br/>
+  
   <h3 id="425"> Unity3D SpaceGame </h3>
   <p> 
     <img src="images/425/4.jpg" alt="centrifuge">
@@ -38,6 +41,9 @@ layout: default
     It was create as a team of three. All scripts were created using C#. The premise is a first person shooter on a space ship fighting 
     robots. The main gimmicks were the cubic Bezier curve based grappling hook, the centrifuge style level that allowed traversal along the inside walls, and the few destructible items within the environment. 
   </p>
+  
+  <br/>
+  <br/>
   
   <h3 id="417"> Bittorrent Client </h3>
   <p>
