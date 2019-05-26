@@ -4,9 +4,12 @@ layout: default
 
 
 <div align="left">
-  # This is an <h1> tag
+  <h3>Projects</h3>
+  <a href="#740">Nori</a> 
+  <a href="#425">Unity3D</a> 
+  <a href="#417">Bittorrent</a> 
 </div>
-<div align="center">
+<div align="right">
   
   
   <h3>Projects</h3>
