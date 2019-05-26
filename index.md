@@ -50,7 +50,7 @@ layout: default
     <a href="https://github.com/KyleBeebe/Bittorrent-Client">Repository</a> 
     <br/>
     A command line Bittorrent client created using C++ that handles single file torrents. The client is able to communicate with 
-    public bittorrent trackers via TCP http get requests and exchanges file data with other clients via UDP. 
+    public bittorrent trackers via TCP http get requests and exchanges file data with other clients via TCP connections. 
   </p>
   
   </body>
