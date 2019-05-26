@@ -61,6 +61,14 @@ layout: default
   by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. Basic 3D shapes with textures can be rendered. The default shaders can deal with diffuse and specular map textures. 
   </p>
   
+  <h3 id="427"> OpenGL extensions </h3>
+  <p>
+    <img src="images/OpenGL/plane.png">
+    <a href="https://github.com/KyleBeebe/OpenGLJava">Repository</a> 
+    <br/>
+    Showcases a few Java OpenGL extensions implemented as part of CMSC 427 (Computer Graphics). A barebones OpenGL framework was provided. Tasks include implementing animation trees, orbiting cameras, trackball cameras, lighting shaders, and procedural terrain  mesh generation. 
+  </p>
+  
   <br/>
   <br/>
   
