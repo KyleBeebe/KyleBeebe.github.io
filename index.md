@@ -10,7 +10,7 @@ layout: default
   <h3 id="740"> CMSC740 </h3>
   
   <h3 id="425"> Unity3D SpaceGame </h3>
-  <a href="images/425/4.jpg">
+  <a href="images/425/4.jpg"/>
   
 </div>
 
