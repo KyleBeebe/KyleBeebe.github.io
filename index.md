@@ -28,7 +28,6 @@ layout: default
   </p>
   
   <h3 id="417"> Bittorrent Client </h3>
-  <img src="images/425/4.jpg" alt="centrifuge">
   <p>
     <a href="https://github.com/KyleBeebe/Bittorrent-Client">Repository</a> 
     <br/>
@@ -37,5 +36,5 @@ layout: default
   </p>
   
   <body/>
-</div>
+<div/>
 
