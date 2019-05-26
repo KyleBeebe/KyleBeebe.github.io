@@ -8,9 +8,9 @@ layout: default
 </div>
 <div align="center">
   
-  <head>
-    <title>Projects</title>
-  </head>
+  
+  <title>Projects</title>
+  
   <body>
   <h3 id="740"> CMSC740 </h3>
   
