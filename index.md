@@ -10,12 +10,12 @@ layout: default
   
   
   <h3>Projects</h3>
-  <body title="aaaa">
+  <body>
   
   <h3 id="740"> CMSC740 </h3>
   
   
-  <p>
+  <p title="aaaa">
     <h3 id="425"> Unity3D SpaceGame </h3>
     <img src="images/425/4.jpg" alt="centrifuge">
     <a href="https://www.youtube.com/watch?v=S0BBw31RJLE&t=6s">Video Demo</a> 
