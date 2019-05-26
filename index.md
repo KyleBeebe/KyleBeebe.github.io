@@ -6,8 +6,11 @@ layout: default
 <div align="left">
   <h3>Projects</h3>
   <a href="#740">Nori</a> 
+  <br/>
   <a href="#425">Unity3D</a> 
+  <br/>
   <a href="#417">Bittorrent</a> 
+  <br/>
 </div>
 <div align="right">
   
