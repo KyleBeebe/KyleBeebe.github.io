@@ -9,9 +9,11 @@ layout: default
   <br/>
   <a href="#425">Unity3D</a> 
   <br/>
+  <a href="#OpenGL">OpenGL</a> 
+  <br/>
   <a href="#417">Bittorrent</a> 
   <br/>
-  <a href="#OpenGL">OpenGL</a> 
+  <a href="#420">OpenGL</a> 
   <br/>
 </div>
 <div align="center">
@@ -45,6 +47,20 @@ layout: default
     robots. The main gimmicks were the cubic Bezier curve based grappling hook, the centrifuge style level that allowed traversal along the inside walls, and the few destructible items within the environment. 
   </p>
   
+  
+  
+  <br/>
+  <br/>
+  
+  <h3 id="OpenGL"> OpenGL 4.6 engine </h3>
+  <p>
+    <img src="images/OpenGL/triangle.png">
+    <a href="https://github.com/KyleBeebe/OpenGLEngine">Repository</a> 
+    <br/>
+    An in-progress OpenGL 4.6 engine in C++.  I have been generally following https://learnopengl.com/ but adhering to an OOP design 
+  by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. Basic 3D shapes with textures can be rendered. The default shaders can deal with diffuse and specular map textures. 
+  </p>
+  
   <br/>
   <br/>
   
@@ -59,14 +75,15 @@ layout: default
   <br/>
   <br/>
   
-  <h3 id="OpenGL"> OpenGL 4.6 engine </h3>
+  <h3 id="420"> PMQuadtree </h3>
   <p>
-    <img src="images/OpenGL/triangle.png">
-    <a href="https://github.com/KyleBeebe/OpenGLEngine">Repository</a> 
+    <a href="https://github.com/KyleBeebe/PMQuadtree">Repository</a> 
     <br/>
-    An in-progress OpenGL 4.6 engine in C++.  I have been generally following https://learnopengl.com/ but adhering to an OOP design 
-  by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. Basic 3D shapes with textures can be rendered. The default shaders can deal with diffuse and specular map textures. 
+    
+Program in Java based around the PMQuadtree datastructure by Hanan Samet. It is a polygonal map that partitions the space based on keys. 
+The project involved mapping cities as points and roads + airports as edges connecting cities. The application finds the shortest route between the cities using Dijkstra's algorithm. 
   </p>
+  
   </body>
 </div>
 
