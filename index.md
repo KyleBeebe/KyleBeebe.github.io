@@ -13,9 +13,6 @@ layout: default
   <br/>
 </div>
 <div align="right">
-  
-  
-  <h3>Projects</h3>
   <body>
   
   <h3 id="740"> Nori Raytracer </h3>
