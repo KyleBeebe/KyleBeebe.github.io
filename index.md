@@ -7,8 +7,11 @@ layout: default
   # This is an <h1> tag
 </div>
 <div align="center">
-  <h3> Projects </h4>
   
+  <head>
+    <title>Projects</title>
+  </head>
+  <body>
   <h3 id="740"> CMSC740 </h3>
   
   
@@ -32,5 +35,7 @@ layout: default
     A command line Bittorrent client created using C++ that handles single file torrents. The client is able to communicate with 
     public bittorrent trackers via TCP http get requests and exchanges file data with other clients via UDP. 
   </p>
+  
+  <body/>
 </div>
 
