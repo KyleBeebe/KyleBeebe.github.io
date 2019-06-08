@@ -39,7 +39,6 @@ layout: default
   <p> 
     <img src="images/425/4.jpg" alt="centrifuge">
     <a href="https://www.youtube.com/watch?v=S0BBw31RJLE&t=6s">Video Demo</a> 
-    
     <br/>
     <a href="https://github.com/KyleBeebe/UnitySpaceGame">Repository</a> 
     <br/>
