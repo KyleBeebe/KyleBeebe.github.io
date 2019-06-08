@@ -42,7 +42,7 @@ layout: default
     <br/>
     <a href="https://github.com/KyleBeebe/UnitySpaceGame">Repository</a> 
     <br/>
-     <a href="https://github.com/KyleBeebe/SpaceGamePlayer/index.html">WebGL player</a> 
+     <a href="https://kylebeebe.github.io/SpaceGamePlayer/index.html">WebGL player</a> 
     <br/>
     This was created in Unity3D to show case some of the game programming techniques developed in CMSC 425 at UMD. 
     It was create as a team of three. All scripts were created using C#. The premise is a first person shooter on a space ship fighting 
