@@ -24,7 +24,8 @@ layout: default
     <img src="images/740/cbox.png">
     <img src="images/740/med_med.png">
     <br/>
-    <a href="https://github.com/KyleBeebe/Nori-Raytracer">Repository</a> 
+    <a href="https://github.com/wjakob/nori">Repository</a> 
+    (Repo forked from; Removed mine due to University legal issues)
     <br/>
     <a href="https://github.com/KyleBeebe/Nori-Raytracer/tree/master/Reports/PDF">Technical Reports</a> 
     <br/>
