@@ -27,7 +27,7 @@ layout: default
     <a href="https://github.com/wjakob/nori">Repository</a> 
     (Repo forked from; Removed mine due to University legal issues)
     <br/>
-    <a href="https://github.com/KyleBeebe/Nori-Raytracer/tree/master/Reports/PDF">Technical Reports</a> 
+    <a href="reports/">Technical Reports</a> 
     <br/>
     The is an educational raytracer that I've been extending with extra features and functionality. An octree was created to partition the 3D scene and accerlate ray traversal, sample warping functions to help with sampling bsdf's, and various effects such as ambient occlusion. Additionally, full path tracing has been implemented with support for diffuse, specular, dielectric, and microfaceted materials. The most recent addition was the implementation of a volumentric rendering integrator. It allows the rendering of homogeneous mediums such as environmental fog with directed scattering via 
   the Henyey-Greenstein phase function model. 
