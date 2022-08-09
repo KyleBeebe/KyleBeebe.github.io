@@ -7,6 +7,8 @@ layout: default
   <h3>Projects</h3>
   <a href="#740">Nori</a> 
   <br/>
+  <a href="#ds4">Ds4Vita</a> 
+  <br/>
   <a href="#425">Unity3D</a> 
   <br/>
   <a href="#OpenGL">OpenGL</a> 
@@ -36,11 +38,9 @@ layout: default
   <br/>
   <br/>
     
-    <h3 id="425"> Ds4Vita contribution </h3>
+ <h3 id="ds4"> Ds4Vita contribution </h3>
   <p> 
-    <a href="https://github.com/KyleBeebe/UnitySpaceGame">Repository</a> 
-    <br/>
-     <a href="https://github.com/KyleBeebe/ds4vita"></a> 
+    <a href="https://github.com/KyleBeebe/ds4vita">Repository</a> 
     <br/>
     I was bored during the start of the COVID lockdowns and got into PS Vita homebrew. I needed an application that allowed me to hook up a wired controller while another application allowed me to mirror the Vita screen on my pc desktop. Xerpi's Ds4Vita allowed this. I ended up fixing a crash when you bring up the OS menu and added mapping from the rear touchpad to the L2 and R2 triggers on the Dualshock 4 controller.    
   </p>
@@ -77,6 +77,9 @@ layout: default
     An in-progress OpenGL 4.6 engine in C++.  I have been generally following https://learnopengl.com/ but adhering to an OOP design 
   by separating components into logical classes. The objective to get a better farmiliarization with the modern OpenGL pipeline. A virtual camera has been implemented with yaw, pitch, and rolling. Basic 3D shapes with textures can be rendered. The default shaders can deal with diffuse and specular map textures. 
   </p>
+    
+  <br/>
+  <br/>
   
   <h3 id="427"> OpenGL extensions </h3>
   <p>
