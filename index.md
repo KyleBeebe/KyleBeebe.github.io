@@ -35,6 +35,20 @@ layout: default
   
   <br/>
   <br/>
+    
+    <h3 id="425"> Ds4Vita contribution </h3>
+  <p> 
+    <a href="https://github.com/KyleBeebe/UnitySpaceGame">Repository</a> 
+    <br/>
+     <a href="https://github.com/KyleBeebe/ds4vita"></a> 
+    <br/>
+    I was bored during the start of the COVID lockdowns and got into PS Vita homebrew. I needed an application that allowed me to hook up a wired controller while another application allowed me to mirror the Vita screen on my pc desktop. Xerpi's Ds4Vita allowed this. I ended up fixing a crash when you bring up the OS menu and added mapping from the rear touchpad to the L2 and R2 triggers on the Dualshock 4 controller.    
+  </p>
+  
+  
+  
+  <br/>
+  <br/>
   
   <h3 id="425"> Unity3D SpaceGame </h3>
   <p> 
